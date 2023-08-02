@@ -1,0 +1,16 @@
+C:\Users\mathe\Documents\Faculdade\EDI2\ED1I4.Atividade1\ED1I4.Atividade1\bin\Debug\ED1I4.Atividade1.exe.config
+C:\Users\mathe\Documents\Faculdade\EDI2\ED1I4.Atividade1\ED1I4.Atividade1\bin\Debug\ED1I4.Atividade1.exe
+C:\Users\mathe\Documents\Faculdade\EDI2\ED1I4.Atividade1\ED1I4.Atividade1\bin\Debug\ED1I4.Atividade1.pdb
+C:\Users\mathe\Documents\Faculdade\EDI2\ED1I4.Atividade1\ED1I4.Atividade1\obj\Debug\ED1I4.Atividade1.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\Faculdade\EDI2\ED1I4.Atividade1\ED1I4.Atividade1\obj\Debug\ED1I4.Atividade1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\Faculdade\EDI2\ED1I4.Atividade1\ED1I4.Atividade1\obj\Debug\ED1I4.Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\Faculdade\EDI2\ED1I4.Atividade1\ED1I4.Atividade1\obj\Debug\ED1I4.Atividade1.exe
+C:\Users\mathe\Documents\Faculdade\EDI2\ED1I4.Atividade1\ED1I4.Atividade1\obj\Debug\ED1I4.Atividade1.pdb
+I:\Faculdade\IFSP\ADS\4°Sem\ED1I4\02 - ATIVIDADE\Atividade1\ED1I4.Atividade1\ED1I4.Atividade1\bin\Debug\ED1I4.Atividade1.exe.config
+I:\Faculdade\IFSP\ADS\4°Sem\ED1I4\02 - ATIVIDADE\Atividade1\ED1I4.Atividade1\ED1I4.Atividade1\bin\Debug\ED1I4.Atividade1.exe
+I:\Faculdade\IFSP\ADS\4°Sem\ED1I4\02 - ATIVIDADE\Atividade1\ED1I4.Atividade1\ED1I4.Atividade1\bin\Debug\ED1I4.Atividade1.pdb
+I:\Faculdade\IFSP\ADS\4°Sem\ED1I4\02 - ATIVIDADE\Atividade1\ED1I4.Atividade1\ED1I4.Atividade1\obj\Debug\ED1I4.Atividade1.csproj.AssemblyReference.cache
+I:\Faculdade\IFSP\ADS\4°Sem\ED1I4\02 - ATIVIDADE\Atividade1\ED1I4.Atividade1\ED1I4.Atividade1\obj\Debug\ED1I4.Atividade1.csproj.SuggestedBindingRedirects.cache
+I:\Faculdade\IFSP\ADS\4°Sem\ED1I4\02 - ATIVIDADE\Atividade1\ED1I4.Atividade1\ED1I4.Atividade1\obj\Debug\ED1I4.Atividade1.csproj.CoreCompileInputs.cache
+I:\Faculdade\IFSP\ADS\4°Sem\ED1I4\02 - ATIVIDADE\Atividade1\ED1I4.Atividade1\ED1I4.Atividade1\obj\Debug\ED1I4.Atividade1.exe
+I:\Faculdade\IFSP\ADS\4°Sem\ED1I4\02 - ATIVIDADE\Atividade1\ED1I4.Atividade1\ED1I4.Atividade1\obj\Debug\ED1I4.Atividade1.pdb
